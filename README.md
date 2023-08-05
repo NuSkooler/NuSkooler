@@ -2,7 +2,7 @@
 
 A few tidbits about me:
 * Father to an amazing daughter
-* Coder - Currently Lead Software Engineer at [Alteryx](https://www.alteryx.com/)
+* Coder
 * Textmode is king!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuSkooler&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
